@@ -1,5 +1,7 @@
 # Carendar
 
+![Carendar](https://user-images.githubusercontent.com/75219640/124164477-f8e03d80-daa0-11eb-96df-eb7cf1213e62.PNG)
+
 ## Introduccion
 
 > Nuestra aplicación consta de funciones de gestión como pedir, modificar o eliminar citas de la peluquería, la gestión del inventario o el stock, gestión de clientes (información personal) y control de la caja, principalmente.
